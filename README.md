@@ -9,5 +9,4 @@ This project contains preprocessing steps for the Titanic dataset as part of an 
 ## Files
 - `Titanic-Dataset.csv`
 - `titanic_cleaning.ipynb`
-- `requirements.txt`
 ##  Ready for machine learning!
